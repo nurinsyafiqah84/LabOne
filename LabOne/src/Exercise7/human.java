@@ -5,11 +5,6 @@ public class human {
 	private double weightEarth;
 	private double weightMars;
 	
-	/*public human(double weightEarth, double weightMars) {
-		this.weightEarth = weightEarth;
-		this.weightMars = weightMars;
-	}*/
-	
 	public double getWeightEarth() {
 		return weightEarth;
 	}
